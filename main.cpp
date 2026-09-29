@@ -1,5 +1,5 @@
 // g++ (Rev8, Built by MSYS2 project) 15.2.0
-// Компиляция через CMake (CMakeLists.txt, стандарт C++23)
+// Компіляція через CMake (CMakeLists.txt, стандарт C++23)
 
 #include <iostream>
 #include <random>
